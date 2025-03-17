@@ -50,4 +50,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Author
 
-- Your Name - [yourusername](https://github.com/yourusername)
+- Jose Mendez - [hsleet](https://github.com/HSleet)

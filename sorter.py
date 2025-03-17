@@ -154,4 +154,5 @@ if __name__ == '__main__':
     if args.cleanup:
         logging.info('Cleaning up empty directories')
         cleanup(source_folder)
-    
+    else:
+        logging.info('Cleanup skipped')
